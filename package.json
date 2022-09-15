@@ -1,0 +1,12 @@
+{
+  "name": "algs_and_structures_course-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10_tree_algs.js",
+  "scripts": {
+    "start": "node 2_binary_search.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
